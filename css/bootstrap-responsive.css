@@ -100,6 +100,14 @@
   .navbar-fixed-bottom .container {
     width: 1000px;
   }
+  
+.span25 {
+	width: 1000px;
+}
+
+.span24 {
+	width: 740px;
+}
   .span12 {
     width: 1000px;
   }
@@ -119,16 +127,16 @@
     width: 530px;
   }
   .span6 {
-    width: 4300px;
+    width: 430px;
   }
   .span5 {
-    width: 3300px;
+    width: 330px;
   }
   .span4 {
-    width: 2300px;
+    width: 230px;
   }
   .span3 {
-    width: 1300px;
+    width: 220px;
   }
   .span2 {
     width: 30px;

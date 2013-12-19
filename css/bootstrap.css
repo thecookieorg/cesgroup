@@ -244,7 +244,7 @@ body {
 }
 
 a {
-  color: #0088cc;
+  color: #474646;
   text-decoration: none;
 }
 
@@ -350,6 +350,13 @@ img.opacity:hover {
 	width: 20%;
 }
 
+.span25 {
+	width: 1000px;
+}
+
+.span24 {
+	width: 740px;
+}
 .span12 {
   width: 940px;
   /*border: 2px solid green;*/
